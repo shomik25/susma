@@ -22,7 +22,7 @@ body {
 /*  min-width: 800px; */
   
   transform: rotateZ(-5deg);
-  box-shadow: 1px 10px 24px 5px rgba(0,0,0,0.5);
+  box-shadow: 1px 5px 30px 7px rgba(0,0,0,0.5);
   
   position: absolute;
 }
@@ -39,7 +39,7 @@ body {
   padding: 10px;
 }
 .paper.image p {
-  font-size: 30px;
+  font-size: 40px;
 }
 
 img {
@@ -64,7 +64,7 @@ img {
 
 p {
   font-family: 'Zeyada';
-  font-size: 50px;
+  font-size: 60px;
   color: rgb(0,0,100);
   opacity: 0.75;
   user-select: none;
