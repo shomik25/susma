@@ -22,7 +22,7 @@ body {
 /*  min-width: 800px; */
   
   transform: rotateZ(-5deg);
-  box-shadow: 1px 15px 20px 0px rgba(0,0,0,0.5);
+  box-shadow: 1px 10px 24px 5px rgba(0,0,0,0.5);
   
   position: absolute;
 }
@@ -43,7 +43,7 @@ body {
 }
 
 img {
-  max-height: 300px;
+  max-height: 400px;
   width: 100%;
   user-select: none;
 }
