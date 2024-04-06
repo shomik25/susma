@@ -29,8 +29,8 @@ body {
 
 .paper.heart {
   position: relative;
-  width: 200px;
-  height: 200px;
+  width: 450px;
+  height: 450px;
   padding: 0;
   border-radius: 50%;
 }
